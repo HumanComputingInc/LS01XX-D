@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+1u,"C1,C2",Capacitor_SMD:C_0402_1005Metric,C52923
+560,C3,Capacitor_SMD:C_0402_1005Metric,C440169
+2k7,"FB1,FB2",Inductor_SMD:L_0805_2012Metric,C437409
+FH34SRJ-10S-0-5SH-50,J1,Tundra_Connectors:Conn-FPC_Hirose-FH34SRJ-10S-0-5SH-50,C324723
